@@ -1,0 +1,6 @@
+total 14
+-rw-r--r-- 1 HP 197121   72 Mar 15 00:32 error.txt
+-rw-r--r-- 1 HP 197121  322 Mar 15 00:31 file.txt
+-rw-r--r-- 1 HP 197121    0 Mar 15 00:32 output.txt
+-rw-r--r-- 1 HP 197121 7754 Mar  4 12:26 Readme.md
+drwxr-xr-x 1 HP 197121    0 Mar  7 21:37 Snapshot/

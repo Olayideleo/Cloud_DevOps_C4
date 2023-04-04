@@ -1,0 +1,11 @@
+total 14
+-r--r--r-- 1 HP 197121 1674 Mar 14 23:37 demo.pem
+-rw-r--r-- 1 HP 197121   72 Mar 15 00:30 error.txt
+-rw-r--r-- 1 HP 197121  809 Mar 15 00:26 file.txt
+-rw-r--r-- 1 HP 197121    0 Mar 15 00:30 output.txt
+-rw-r--r-- 1 HP 197121   91 Mar  4 12:26 README.md
+drwxr-xr-x 1 HP 197121    0 Mar  4 12:26 Week_2/
+drwxr-xr-x 1 HP 197121    0 Mar  7 17:42 Week_3/
+drwxr-xr-x 1 HP 197121    0 Mar  4 12:26 Week_4/
+drwxr-xr-x 1 HP 197121    0 Mar  4 12:26 Week_5/
+drwxr-xr-x 1 HP 197121    0 Mar  4 12:26 Week_6/
